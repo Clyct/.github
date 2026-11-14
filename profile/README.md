@@ -1,3 +1,5 @@
+![Clyct](clyct-banner.png)
+
 # Clyct
 
 **Cybersecurity, with clarity.**
