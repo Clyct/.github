@@ -1,4 +1,4 @@
-![Clyct](clyct-banner.png)
+![Clyct](https://raw.githubusercontent.com/Clyct/.github/main/profile/clyct-banner.png)
 
 # Clyct
 
