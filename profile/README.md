@@ -6,8 +6,6 @@
 
 Clyct is a cybersecurity platform designed to help organizations better understand and manage their digital security.
 
-We’re building toward a more informed and accessible approach to cybersecurity.
-
----
+Our goal is to make cybersecurity clearer, more accessible, and easier to act on.
 
 © 2026 Clyct
